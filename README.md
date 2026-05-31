@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 B.Tech CSE (Data Science) Student | Frontend Developer  <br><br>🚀 I build responsive and scalable web applications using React, TypeScript & Tailwind CSS  <br>🔐 Built an encrypted real-time chat app (Next.js + Socket.io)  <br>🍔 Recreated Swiggy’s core user journey with 90% UI responsiveness  <br>🏆 SIH 2025 Finalist  <br>🤝 Training & Placement Coordinator – handled 20+ placement drives  <br><br>📫 Open to internships & frontend/full-stack opportunities<br>
+👨‍💻 B.Tech CSE (Data Science) Student | Frontend Developer  <br><br>🚀 I build responsive and scalable web applications using React, TypeScript & Tailwind CSS  <br>🔐 Built an encrypted real-time chat app (Next.js + Socket.io)  <br>🍔 Recreated Swiggy’s core user journey with 90% UI responsiveness <br>🤝 Training & Placement Coordinator – handled 20+ placement drives  <br><br>📫 Open to internships & frontend/full-stack opportunities<br>
 
 
 ## 🌐 Socials:
